@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Task5{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int[] array = {10, 20, 30, 40, 50}; // Example array
+        int[] array = {10, 20, 30, 40, 50};
         int index;
 
         try {
